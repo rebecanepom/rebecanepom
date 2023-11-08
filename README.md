@@ -1,4 +1,4 @@
-### Olá! Eu sou a Rebeca Nepomuceno 😊
+### Olá! Eu sou a Rebeca 😊
 
 - 🌱 Estudando HTML5, CSS3 e JavaScript
 
