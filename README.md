@@ -1,7 +1,9 @@
 ### Olá! Eu sou a Rebeca 😊
 
-- 🌱 Estudando HTML5, CSS3 e JavaScript
+##
 
+- 🌱 Estudando HTML5, CSS3 e JavaScript
+<br>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecanepom&layout=compact&langs_count=16&theme=dracula"/>
   <img align="right" alt="Beca-GIF" height="200" src="https://github.com/rebecanepom/rebecanepom/assets/148262335/5bb47215-dbb2-47e4-bd3e-e88b23124d48">
