@@ -4,14 +4,13 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecanepom&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="right" alt="Beca-GIF" height="200" src="https://github.com/rebecanepom/rebecanepom/assets/148262335/a8a731a0-ee07-4772-9ae6-012313315bb5">
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Beca-GIF" height="250" src="https://github.com/rebecanepom/rebecanepom/assets/148262335/c6dfbe41-a74e-402a-a184-0aa52fd0392f">
   <img align="center" alt="Beca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Beca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Beca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
 </div>
 
 ##
